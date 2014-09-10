@@ -1,9 +1,0 @@
-# This file provides instructions for packaging.
-
-`MooseX-Declare-Context-WithOptions-Patch-Extensible`
-	perl_version_from m`MooseX::Declare::Context::WithOptions::Patch::Extensible`;
-	version_from      m`MooseX::Declare::Context::WithOptions::Patch::Extensible`;
-	readme_from       m`MooseX::Declare::Context::WithOptions::Patch::Extensible`;
-	requires          p`MooseX::Declare 0.30`;
-	test_requires     p`Test::More 0.61`.
-
