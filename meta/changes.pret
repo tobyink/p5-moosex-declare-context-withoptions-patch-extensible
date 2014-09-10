@@ -4,3 +4,10 @@
 	issued  2012-08-20;
 	label   "Initial release".
 
+
+`MooseX-Declare-Context-WithOptions-Patch-Extensible 0.002 cpan:TOBYINK`
+	issued    2014-09-10;
+	changeset [
+		item "Switch to Dist::Inkt."^^Packaging;
+	].
+

@@ -7,7 +7,7 @@ use utf8;
 
 BEGIN {
 	$MooseX::Declare::Context::WithOptions::Patch::Extensible::AUTHORITY = 'cpan:TOBYINK';
-	$MooseX::Declare::Context::WithOptions::Patch::Extensible::VERSION   = '0.001';
+	$MooseX::Declare::Context::WithOptions::Patch::Extensible::VERSION   = '0.002';
 }
 
 # I had hoped to do this with Module::Patch, but it seems that Module::Patch
